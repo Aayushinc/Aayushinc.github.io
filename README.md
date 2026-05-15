@@ -10,7 +10,7 @@ I am passionate about solving technical problems, improving user experience, and
 
 ## Live Portfolio
 
-[View My Portfolio](https://github.com/Aayushinc/ayushbadheka.github.io)
+[View My Portfolio](https://github.com/Aayushinc.github.io)
 
 ## Skills
 
